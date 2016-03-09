@@ -1,0 +1,15 @@
+{
+    "name": "pifarek/administrator",
+    "authors": [
+        {
+            "name": "Marcin Piwarski",
+            "email": "marcinpiwarski@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+	"psr-4": {
+            "Pifarek\\Administrator\\": "/src"
+	}
+    }
+}
